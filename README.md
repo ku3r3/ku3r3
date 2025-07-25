@@ -5,7 +5,9 @@
 <a href="https://www.instagram.com/kuereangel/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<br >
+
+###
+
 <h1 align="center">Hey 👋What's Up?</h1>
 name: Moch Effendi <br >
 located_in: Jawa Timur, Indonesia <br >
@@ -36,7 +38,9 @@ technical_background: <br >
 currently_learning: ["Docker, Kubernetes, and React Native"] <br >
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."] <br >
 hobbies: ["Gaming", "Hacking", "Rafting", "Climbing", "Comedy"] <br >
-<br >
+
+###
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> <br >
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -46,6 +50,7 @@ hobbies: ["Gaming", "Hacking", "Rafting", "Climbing", "Comedy"] <br >
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
+
 ###
 
 <div align="center">
