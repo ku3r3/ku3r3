@@ -36,7 +36,7 @@ technical_background: <br >
     "Project - Cyber Security Forensic in BUMN", <br >
   ] <br >
   <br >
-currently_learning: ["Docker, Kubernetes, and React Native, Cyber Security Comptia Pentest+ CEH v13, Forensic Digital"] <br >
+currently_learning: ["Docker, Kubernetes, and React Native, Cyber Security Comptia Pentest+, CEH v13, Forensic Digital"] <br >
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."] <br >
 hobbies: ["Gaming", "Hacking", "Rafting", "Climbing", "Comedy"] <br >
 
