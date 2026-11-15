@@ -33,9 +33,10 @@ technical_background: <br >
     "Intern - Data Science & Machine Learning in Python", <br >
     "Project - Internet Of Things CCTV", <br >
     "Project - Cyber Security in goverment", <br >
+    "Project - Cyber Security Forensic in BUMN", <br >
   ] <br >
   <br >
-currently_learning: ["Docker, Kubernetes, and React Native"] <br >
+currently_learning: ["Docker, Kubernetes, and React Native, Cyber Security Comptia Pentest+ CEH v13, Forensic Digital"] <br >
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."] <br >
 hobbies: ["Gaming", "Hacking", "Rafting", "Climbing", "Comedy"] <br >
 
